@@ -43,6 +43,8 @@ Pasos para crear la API
 
 7- Ahora procederemos a probar agregar usuarios probando con POSTMAN los endpoints definidos para este ejercicio
 
+https://youtu.be/Ec6UeDSVXQs
+
 
 
 
