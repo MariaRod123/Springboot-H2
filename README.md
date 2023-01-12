@@ -25,9 +25,20 @@ Pasos para crear la API
 
 ![2023-01-12_11h49_55](https://user-images.githubusercontent.com/72228855/212098766-ceed1625-cb2b-438b-b79a-a5156d4f58f4.png)
 
-3- Luego vamos al archivo application.properties ubicado en el directorio resources, y allí vamos a configurar la conexion a la BD
+3- Luego vamos al archivo application.properties ubicado en el directorio resources, y allí vamos a configurar la conexión a la BD
 
 ![2023-01-12_11h57_34](https://user-images.githubusercontent.com/72228855/212100593-c13ed99b-bcb2-4d01-8560-9d97a625da64.png)
+
+4- Para acceder a la BD vamos a correr el servidor en la opción Spring-Boot:run  localhost:8080/h2-console
+
+![2023-01-12_13h28_52](https://user-images.githubusercontent.com/72228855/212125618-e31ea8e6-40fd-4446-b7b6-82831e5e0cb6.png)
+
+5- Luego en escribimos localhost:8080/h2-console en la barra del navegador para poder acceder a la interfaz de la BD
+
+![2023-01-12_13h36_21](https://user-images.githubusercontent.com/72228855/212126436-cc783b87-3154-4951-9cb1-c07af1343eae.png)
+
+
+
 
 
 
