@@ -16,13 +16,20 @@ Características de H2
 
 
 Pasos para crear la API
+
 1- Crear el proyecto en https://start.spring.io/
 
 ![2023-01-12_11h43_57](https://user-images.githubusercontent.com/72228855/212097041-8854f277-3c2a-4e5c-be89-5dd311bd6688.png)
 
-2- Una vez que descargamos el proyecto y lo abrimos con intelliJ creamos  los siguientes paquetes que se señalan en la imagen:
+2- Una vez que descargamos el proyecto y lo abrimos con intelliJ creamos los siguientes paquetes que se señalan en la imagen:
 
 ![2023-01-12_11h49_55](https://user-images.githubusercontent.com/72228855/212098766-ceed1625-cb2b-438b-b79a-a5156d4f58f4.png)
+
+3- Luego vamos al archivo application.properties ubicado en el directorio resources, y allí vamos a configurar la conexion a la BD
+
+![2023-01-12_11h57_34](https://user-images.githubusercontent.com/72228855/212100593-c13ed99b-bcb2-4d01-8560-9d97a625da64.png)
+
+
 
 
 
