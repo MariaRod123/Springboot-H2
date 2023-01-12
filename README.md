@@ -37,6 +37,13 @@ Pasos para crear la API
 
 ![2023-01-12_13h36_21](https://user-images.githubusercontent.com/72228855/212126436-cc783b87-3154-4951-9cb1-c07af1343eae.png)
 
+6- Una vez que clickeamos en el botón Conectar veremos la siguiente interfaz desde la ual podremos manipular la BD
+
+![2023-01-12_13h43_54](https://user-images.githubusercontent.com/72228855/212128466-5424c69b-7bd8-4079-b3a2-754c4cdbfba5.png)
+
+
+
+
 
 
 
